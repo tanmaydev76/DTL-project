@@ -1,4 +1,4 @@
-# 🧮 C++ Calculator Project (Modular Approach)
+ # 🧮 C++ Calculator Project (Modular Approach)
 
 ## 📌 Project Overview
 
@@ -32,6 +32,10 @@ calculator/
 ├── sub.cpp         # Subtraction function
 ├── mul.cpp         # Multiplication function
 ├── div.cpp         # Division function (with error handling)
+<<<<<<< HEAD
+=======
+|-- 
+>>>>>>> ec9d857d7c1a77247f536d7b13f43c6dce40327e
 ---
 
 ## ⚙️ Features
@@ -50,9 +54,9 @@ The project is divided among 4 team members:
 
 | Member      | Responsibility                               |
 | ----------- | -------------------------------------------- |
-| Member 1    | Addition module (add.cpp)                  |
-| Member 2    | Subtraction module (sub.cpp)               |
-| Member 3    | Multiplication module (mul.cpp)            |
+| Member 1    | Addition module , Make file, Main.cpp (add.cpp)|
+| Member 2    | Operations module(operations.h) , Division Module(div.cpp), README.md|
+| Member 3    | Multiplication module (mul.cpp) , Subtraction Module(sub.cpp)|
 | All Members | Integration in main.cpp                    |
 
 ---
